@@ -92,4 +92,4 @@ class PSPColumnGeneration:
         return self.solution
 
     def get_column_number(self):
-        return
+        return self.column_nbr
